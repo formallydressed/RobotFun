@@ -1,0 +1,9 @@
+# Built Python files
+*.pyc
+
+# Weird Python Save File
+*.save
+
+# Editor backups
+*~
+*.swp
